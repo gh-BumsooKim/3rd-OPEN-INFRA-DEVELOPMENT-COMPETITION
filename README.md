@@ -14,13 +14,13 @@ Title :
 <br>School of Computer Art, CAU
 <br>(* equal contributions) 
 
-1) Deep Learning Network Design with Tensorflow
+1) Core and Back-end web development
 2) System Integration with Gloud Platform
-3) Front-end web development
+3) UX/UI Designer, Front-end web development
 
 ### Environment
 
 - Runtime Stack : python 3.7
 - OS : Linux
-- DB : mysql
-- Web : python-flask-bootstrap  
+- DB : Postgres
+- Web : python-Django-bootstrap
