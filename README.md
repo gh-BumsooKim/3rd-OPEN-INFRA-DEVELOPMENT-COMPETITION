@@ -15,8 +15,9 @@ Title :
 <br>(* equal contributions) 
 
 1) Core and Back-end web development
-2) System Integration with Gloud Platform
-3) UX/UI Designer, Front-end web development
+2) System Integration with Cloud Platform
+3) Mobile UX/UI Designer
+4) Front-end Web development
 
 ### Environment
 
