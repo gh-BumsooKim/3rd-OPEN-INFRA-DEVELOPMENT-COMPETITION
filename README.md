@@ -10,7 +10,7 @@
 
 Title : 
 
-[김범수](https://github.com/gh-BumsooKim)<sup>1</sup>\* [박채연](https://github.com/sally1924)<sup>2</sup>\* [전승민](https://github.com/)<sup>3</sup>\* [황지우](https://github.com/jbr1tr)<sup>4</sup>\*
+[김범수](https://github.com/gh-BumsooKim)<sup>1</sup>\* [박채연](https://github.com/sally1924)<sup>2</sup>\* [전승민](https://github.com/smjeon2410)<sup>3</sup>\* [황지우](https://github.com/jbr1tr)<sup>4</sup>\*
 <br>School of Computer Art, CAU
 <br>(* equal contributions) 
 
