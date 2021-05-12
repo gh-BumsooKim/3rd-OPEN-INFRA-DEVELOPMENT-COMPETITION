@@ -6,7 +6,7 @@
 
 ---
 
-### [Site]() | [Proposal](https://github.com/gh-BumsooKim/3rd-OPEN-INFRA-DEVELOPMENT-COMPETITION/blob/main/예선_제출_자료.pptx)
+### [Site]() | [Proposal](https://github.com/gh-BumsooKim/3rd-OPEN-INFRA-DEVELOPMENT-COMPETITION/blob/main/예선_제출_자료.pdf)
 
 Title : 같이하는 가치소비 참여형 애플리케이션, 나의 녹색파트너 : 그린이
 
